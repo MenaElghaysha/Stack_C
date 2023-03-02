@@ -1,3 +1,3 @@
 # Stack_C
 
-## project notexs
+## project notes
